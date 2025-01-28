@@ -1,0 +1,13 @@
+# PST file default specifications
+
+PST_FILE:
+    OBSERVATION_GROUPS_SPECIFICATIONS:
+        inctyp: relative
+        derinc: 0.01
+        derinclb: 0.0001
+        forcen: switch
+        derincmul: 2.0
+        dermthd: parabolic
+        splitthresh: 1.0
+        splitreldiff: 0.5
+        splitaction: smaller
